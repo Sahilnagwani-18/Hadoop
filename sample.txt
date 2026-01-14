@@ -1,0 +1,21 @@
+Hadoop is a distributed data processing framework.
+A cluster contains a master and multiple slave nodes.
+HDFS stores data in large distributed blocks.
+The namenode manages metadata and file structure.
+The datanodes store actual data blocks across machines.
+MapReduce divides tasks into map and reduce stages.
+Each mapper processes a portion of the input dataset.
+Reducers aggregate intermediate results from mappers.
+Replication provides fault tolerance in Hadoop.
+Big data systems require scalability and high availability.
+Spark is a fast in memory data processing engine.
+Yarn handles resource management for Hadoop jobs.
+Machine learning algorithms need a large volume of data.
+Cloud platforms allow elastic scaling of Hadoop clusters.
+Real time data processing is used in financial applications.
+Kafka streams continuous data from producers to consumers.
+Python is widely used for data engineering and analytics.
+SQL is useful for querying structured datasets.
+Data pipelines automate extraction transformation and loading.
+Automation improves efficiency in big data workflows.
+
