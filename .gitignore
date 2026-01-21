@@ -1,0 +1,74 @@
+# =========================
+# OS / Editor files
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# =========================
+# Java compiled files
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+
+# =========================
+# Build directories
+# =========================
+/target/
+/build/
+/out/
+
+# =========================
+# Hadoop / Big Data outputs
+# =========================
+/data/
+/dataset/
+/datasets/
+/input/
+/output/
+/hdfs/
+/hadoop-output/
+*.seq
+*.avro
+*.parquet
+*.orc
+
+# =========================
+# Large datasets (CSV, etc.)
+# =========================
+*.csv
+*.tsv
+*.json
+*.xml
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Archives
+# =========================
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+*.pem
+*.key
+
+# =========================
+# Explicitly ignored large file
+# =========================
+movies_clean.csv
